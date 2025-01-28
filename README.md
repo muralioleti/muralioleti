@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Murali Oleti</h1>
 <h3 align="center">Passionate about data analysis and visualization, with a strong foundation in statistical methods. Always eager to learn and apply skills to real-world problems through innovative projects.</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<p><div style="position: relative; display: inline-block;">
+  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.4);"></div>
+</div></p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muralioleti&label=Profile%20views&color=0e75b6&style=flat" alt="muralioleti" /> </p>
 
@@ -27,6 +32,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muralioleti&show_icons=true&locale=en&layout=compact&theme=radical" alt="muralioleti" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muralioleti&show_icons=true&locale=en" alt="muralioleti" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muralioleti&show_icons=true&locale=en&theme=radical" alt="muralioleti" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muralioleti&" alt="muralioleti" /></p>
+
+
+

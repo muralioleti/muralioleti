@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Murali Oleti</h1>
 <h3 align="center">Passionate about data analysis and visualization, with a strong foundation in statistical methods. Always eager to learn and apply skills to real-world problems through innovative projects.</h3>
+
+
 <p><div style="position: relative; display: inline-block;">
   <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
   <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.4);"></div>

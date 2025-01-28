@@ -24,7 +24,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muralioleti&show_icons=true&locale=en&layout=compact" alt="muralioleti" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muralioleti&show_icons=true&locale=en&layout=compact&theme=radical" alt="muralioleti" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muralioleti&show_icons=true&locale=en" alt="muralioleti" /></p>
 
